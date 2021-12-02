@@ -1,5 +1,12 @@
 #READ ME
 
+Project name: Chat group
+Makes a chat group betwen a minimum of 3 created clients and create a server to manage the communication
+
+#Requirements
+Create a server and the clients
+
+
 #how to install
 Compile tcpserver.c and tcpclient.c
 
